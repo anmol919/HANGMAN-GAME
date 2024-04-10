@@ -1,4 +1,4 @@
-Hello this is the hangman game which was made by me and my friends.
+Hello this is a hangman game which was made by me and my friends.
 
 # Instructions
 1.There are total 6 number of guesses to guess the word before the man hangs.
